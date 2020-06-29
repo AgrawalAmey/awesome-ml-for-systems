@@ -25,3 +25,36 @@
 - [**Towards Safe Online Reinforcement Learning in Computer Systems**. Hongzi Mao, Malte Schwarzkopf, Hao He, and Mohammad Alizadeh](http://mlforsystems.org/assets/papers/neurips2019/towards_mao_2019.pdf)
 - [**TreeCaps: Tree-Structured Capsule Networks for Program Source Code Processing**. Vinoj Jayasundara, Nghi Bui, Lingxiao Jiang, and David Lo](http://mlforsystems.org/assets/papers/neurips2019/treecaps_jayasundara_2019.pdf)
 - [**Zero-Shot Learning for Fast Optimization of Computation Graphs**. Aditya Paliwal, Felix Gimeno, Vinod Nair, Yujia Li, Miles Lubin, Pushmeet Kohli, and Oriol Vinyals](http://mlforsystems.org/assets/papers/neurips2019/zero_shot_paliwal_2019.pdf)
+
+
+### ML for Systems workshop ISCA 2019
+
+- [**SinReQ: Generalized Sinusoidal Regularization for Low-Bitwidth Deep Quantized Training**. Ahmed T. Elthakeb, Prannoy Pilligundla, and Hadi Esmaeilzadeh](http://mlforsystems.org/assets/papers/isca2019/MLforSystems2019_Ahmed_T_Elthakeb.pdf)
+- [**Learning automatic schedulers with projective reparameterization**. Ajay Jain, and Saman Amarasingh](http://mlforsystems.org/assets/papers/isca2019/MLforSystems2019_Ajay_Jain.pdf)
+- [**Ithemal: Accurate, Portable and Fast Basic Block Throughput Estimation using Deep Neural Networks**. Charith Mendis, Alex Renda, Saman Amarasinghe, and Michael Carbin](http://mlforsystems.org/assets/papers/isca2019/MLforSystems2019_Charith_Mendis.pdf)
+- [**AutoRank: Automated Rank Selection for Effective Neural Network Customization**. Mohammad Samragh, Mojan Javaheripi, and Farinaz Koushanfar](http://mlforsystems.org/assets/papers/isca2019/MLforSystems2019_Mohammad_Samragh.pdf)
+- [**Optimal Learning-Based Network Protocol Selection**. Xiaoxi Zhang, Siqi Chen, Youngbin Im, Maria Gorlotova, Sangtae Ha, and Carlee Joe-Wong](http://mlforsystems.org/assets/papers/isca2019/MLforSystems2019_Xiaoxi_Zhang.pdf)
+
+
+## ML for Systems workshop NeurIPS 2018:
+
+- [**Learning Scheduling Algorithms for Data Processing Clusters**. Hongzi Mao, Malte Schwarzkopf, Shaileshh Bojja Venkatakrishnan, Zili Meng, and Mohammad Alizadeh](http://mlforsystems.org/assets/papers/neurips2018/learning_mao_2018.pdf)
+- [**Generative Adversarial Networks for Clustering Semiconductor Wafer Maps**. Hamidreza Mahyar, Elahe Ghalebi, Peter Tulala, and Radu Grusu](http://mlforsystems.org/assets/papers/neurips2018/generative_mahyar_2018.pdf)
+- [**Virtual Address Translation via Learned Page Table Indexes**. Artemiy Margaritov, Dmitri Ustiugov, Edouard Bugnion, and Boris Grot](http://mlforsystems.org/assets/papers/neurips2018/virtual_margaritov_2018.pdf)
+- [**Exploring the Use of Learning Algorithms for Efficient Performance Profiling**. Shoumik Palkar*, Sahaana Suri*, Matei Zaharia, and Peter D. Bailis](http://mlforsystems.org/assets/papers/neurips2018/exploring_palkar_2018.pdf)
+- [**Neural Inference of API Functions from Input–Output Examples**. Rohan Bavishi, Caroline Lemieux, Neel Kant, Roy Fox, Koushik Sen, and Ion Stoica. ](http://mlforsystems.org/assets/papers/neurips2018/neural_bavishi_2018.pdf)
+- [**A K-means Cluster-Driven Calibration to Improve the Accuracy of Personal Wearable UV Sensors**. Thomas Pumir, Emmanuel Dumont, Peter Kaplan, and Shayak Banerjee](http://mlforsystems.org/assets/papers/neurips2018/kmeans_pumir_2018.pdf)
+- [**DeepConf: Automating Data Center Network Topologies Management with Machine Learning**. Saim Salman, Theophilus Benson, and Asim Kadav](http://mlforsystems.org/assets/papers/deepconf_salman_2018.pdf)
+- [**Cache Miss Rate Predictability via Neural Networks**. Rishikesh Jha*, Arjun Karuvally*, Saket Tiwari*, and J. Eliot B. Moss](http://mlforsystems.org/assets/papers/neurips2018/cache_jha_2018.pdf)
+- [**Placeto: Efficient Progressive Device Placement Optimization**. Ravichandra Addanki, Shaileshh Venkatakrishnan, Shreyan Gupta, Hongzi Mao, and Dr. Mohammad Alizadeh](http://mlforsystems.org/assets/papers/neurips2018/placeto_addanki_2018.pdf)
+- [**Lifting the Curse of Multidimensional Data with Learned Existence Indexes**. Stephen Macke, Alex Beutel, Tim Kraska, Maheswaran Sathiamoorthy, Derek Zhiyuan Cheng, and Ed H. Chi](http://mlforsystems.org/assets/papers/neurips2018/lifting_macke_2018.pdf)
+- [**PeCC: Prediction-error Correcting Cache**. Vaishnav Janardhan and Adit Bhardwaj](http://mlforsystems.org/assets/papers/neurips2018/pecc_bhardwaj_2018.pdf)
+- [**Chasing the Signal: Statistically Separating Multi-Tenant I/O Workloads**. Si Chen and Avani Wildani](http://mlforsystems.org/assets/papers/neurips2018/chasing_chen_2018.pdf)
+- [**Iroko: A Framework to Prototype Reinforcement Learning for Data Center Traffic Control**. Fabian Ruffy*, Michael Przystupa*, and Ivan Beschastnikh](http://mlforsystems.org/assets/papers/neurips2018/iroko_ruffy_2018.pdf)
+- [**Learning to Optimize Tensor Programs**. Tianqi Chen, Lianmin Zheng, Eddie Yan, Ziheng Jiang, Thierry Moreau, Luis Ceze, Carlos Guestrin, and Arvind Krishnamurthy](http://mlforsystems.org/assets/papers/neurips2018/learning_chen_2018.pdf)
+- [**Learning to Design Circuits**. Hanrui Wang*, Jiacheng Yang*, Hae-Seung Lee, and Song Han](http://mlforsystems.org/assets/papers/neurips2018/learning_wang_2018.pdf)
+- [**End-to-end Learning for Distributed Circuit Design**. Hao He*, Guo Zhang*, Jack Holloway, and Dina Katabi](http://mlforsystems.org/assets/papers/neurips2018/end_to_end_he_2018.pdf)
+- [**Dali: Lazy Compilation &amp; Kernel Fusion in Dynamic Computation Graphs**. Jonathan Raiman](http://mlforsystems.org/assets/papers/neurips2018/dali_raiman_2018.pdf)
+- [**ReLeQ: An Automatic Reinforcement Learning Approach for Deep Quantization of Neural Networks**. Amir Yazdanbakhsh*, Ahmed T. Elthakeb*, Prannoy Pilligundla, Fatemeh Sadat Mireshghallah, and Hadi Esmaeilzadeh](http://mlforsystems.org/assets/papers/neurips2018/releq_yazdanbakhsh_2018.pdf)
+- [**Automated Testing of Graphics Units by Deep-Learning Detection of Visual Anomalies**. Lev Faivishevsky, Ashwin K Muppalla, Ravid Shwartz-Ziv, Ronen Laperdon, Benjamin Melloul, Tahi Hollander, and Amitai Armon](http://mlforsystems.org/assets/papers/neurips2018/automated_faivishevsky_2018.pdf)
+
